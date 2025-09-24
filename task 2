@@ -1,0 +1,22 @@
+#include<iostream>
+
+
+int main() {
+	const float ConstA = 0.6891354328;
+
+	float variable1;
+	variable1 = 362514748596.84;
+
+	float variable2 = -52.29e-73;
+
+	return 0;
+
+
+	double variable4 = 0.899e-5320;
+
+		double variable3;
+
+		variable3 = -743.6e189;
+
+		return 0;
+}
