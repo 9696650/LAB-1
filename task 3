@@ -1,0 +1,43 @@
+#include<iostream>
+
+
+int main() {
+	int iVar1 = -59;
+
+	int iVar2 = iVar1;
+
+	int iVar3 = -101;
+
+	int iVar4 = -iVar3;
+
+	int iVar5 = 136, iVar6 = -57;
+
+	int iSum = iVar5 + iVar6;
+
+	int iVar7 = -43, iVar8 = 63;
+
+	int iSub = iVar7 - iVar8;
+
+	int iVar9 = 15, iVar10 = 7;
+
+	int iMul = iVar9 * iVar10;
+
+	int iVar11 = 12, iVar12 = 6;
+
+	int iDiv = iVar11 / iVar12;
+
+	int iVar13 = 12, iVar14 = 7;
+
+	int iDiv2 = iVar13 / iVar14;
+
+	int iVar15 = 16, iVar16 = 5;
+
+	int iRest = iVar15 % iVar16;
+
+	float fltVar17 = 52, fltVar18 = 8;
+
+	float fltDiv = fltVar17 / fltVar18;
+
+
+	return 0;
+}
