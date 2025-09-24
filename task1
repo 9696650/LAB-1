@@ -1,0 +1,51 @@
+#include<math.h>
+
+
+int main() {
+	const short ConstA = 135;
+
+	short variable1;
+	variable1 = -86;
+
+	short variable2;
+	variable2 = 0x4e;
+
+	return 0;
+
+	const int ConstB = 9.63;
+
+	int variable3;
+	variable3 = -42659;
+
+	int variable4;
+	variable4 = 163;
+
+	return 0;
+
+
+	const long ConstC = 10003254761;
+
+	long variable5 ;
+	variable5 = 36.8;
+
+	long variable6;
+	variable6 = 472;
+	return 0;
+
+	const unsigned short ConstD = 1703;
+
+	unsigned short variable7;
+	variable7 = 403070;
+
+	unsigned short variable8;
+	variable8 = -5;
+
+	return 0;
+
+
+
+
+
+
+
+}
